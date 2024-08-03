@@ -23,7 +23,7 @@ const experiences = [
 		role: 'Copywriter/Tester',
 		duration: '2021 - 2023',
 		description:
-			'Created engaging content for various platforms and tested digital products for quality and usability. Ensured content accuracy and consistency while identifying and resolving issues to improve user experience.',
+			'Created engaging content for various platforms and tested tech products for quality and usability. Ensured content accuracy and consistency while identifying and resolving issues to improve user experience.',
 	},
 ];
 
