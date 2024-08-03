@@ -1,6 +1,6 @@
 import React from 'react';
-import { FaReact, FaJs, FaCss3Alt, FaGithub } from 'react-icons/fa';
-import { SiTailwindcss, SiCsharp, SiMysql } from 'react-icons/si';
+import { FaReact, FaJs, FaCss3Alt } from 'react-icons/fa';
+import { SiTailwindcss, SiCsharp, SiMysql, SiGit } from 'react-icons/si';
 import { motion } from 'framer-motion';
 
 const skills = [
@@ -10,7 +10,7 @@ const skills = [
 	{ icon: <SiTailwindcss />, name: 'TailwindCSS' },
 	{ icon: <SiMysql />, name: 'SQL' },
 	{ icon: <SiCsharp />, name: 'C#' },
-	{ icon: <FaGithub />, name: 'GitHub' },
+	{ icon: <SiGit />, name: 'Git' },
 ];
 
 const Skills = () => {
