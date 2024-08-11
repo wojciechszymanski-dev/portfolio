@@ -38,7 +38,8 @@ const Home = () => {
 					<h1 className='text-4xl font-bold mb-2'>Wojciech Szymański</h1>
 					<p className='text-lg max-w-md mx-auto'>
 						Ambitious developer eager to grow and learn. Currently immersed in
-						learning web and app development
+						learning web and app development. I&apos;m an AI-Engeneer and I see the bright
+                        future for our nerdy field. Feel free to reach out!
 					</p>
 				</motion.div>
 			</Element>
